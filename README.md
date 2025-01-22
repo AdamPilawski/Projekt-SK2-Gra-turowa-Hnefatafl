@@ -10,7 +10,7 @@ gcc -Wall hnefataflClient.c -o hnefataflClient.o
 ```
 - Uruchomienie Serwera
 ```
-./hnefataflServer.o <port><br/>
+./hnefataflServer.o <port>
 ```
 Parametr <port> jest opcjonalny, domyślnie przyjmuje 1111.
 
