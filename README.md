@@ -1,4 +1,4 @@
-# Projekt-SK2-Gra-turowa-Hnefatafl
+# Gra turowa Hnefatafl
 ## Konfiguracja
 - Kompilacja Serwera
 ```
